@@ -1,0 +1,18 @@
+{
+  "headless": false,
+  "user_dir": false,
+  "tg_api_token": "token",
+  "tg_chat_id": "chat_id",
+  "webdriver": {
+    "bot1": {
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+      "use_proxy": false,
+      "proxy": {
+        "host": "ip",
+        "port": 1234,
+        "login": "login",
+        "password": "pass"
+      }
+    }
+  }
+}
