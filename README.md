@@ -77,9 +77,8 @@ Create a `config.json` file like this:
 
 Add links from `encar.com` that you want to monitor:
 
-    https://www.encar.com/dc/dc_carsearch_list.html?cate_id=... 
-    https://fem.encar.com/fem/fem_search_list.html?... 
-
+    http://www.encar.com/fc/fc_carsearchlist.do
+    
 ## 🚀 How to Run
 ```bash
 python main.py

@@ -1,2 +1,2 @@
-http://www.encar.com/fc/fc_carsearchlist.do?carType=for#!%7B%22action%22%3A%22(And.Hidden.N._.(C.CarType.N._.(C.Manufacturer.%EB%8B%9B%EC%82%B0._.ModelGroup.%ED%81%90%EB%B8%8C.)))%22%7D
-http://www.encar.com/fc/fc_carsearchlist.do?carType=for#!%7B%22action%22%3A%22(And.Hidden.N._.(C.CarType.N._.(C.Manufacturer.%EB%8B%9B%EC%82%B0._.(C.ModelGroup.%EB%A6%AC%ED%94%84._.Model.%EB%A6%AC%ED%94%84.))))%22%2C%22toggle%22%3A%7B%7D%2C%22layer%22%3A%22%22%2C%22sort%22%3A%22ModifiedDate%22%2C%22page%22%3A1%2C%22limit%22%3A20%2C%22searchKey%22%3A%22%22%2C%22loginCheck%22%3Afalse%7D
+http://www.encar.com/fc/fc_carsearchlist.do
+http://www.encar.com/fc/fc_carsearchlist.do
